@@ -137,7 +137,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T04:39:35Z",
+            "last_commit": "2026-08-13T15:20:47Z",
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 190
@@ -244,7 +244,7 @@
             "last_commit": "2026-07-29T14:07:16Z",
             "owner": "frankmcsherry",
             "repo": "blog",
-            "stars": 2118
+            "stars": 2119
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-07-29T14:07:16Z",
             "owner": "frankmcsherry",
             "repo": "blog",
-            "stars": 2118
+            "stars": 2119
           }
         }
       ],
@@ -271,7 +271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:45:44.694Z",
+    "last_updated": "2026-08-13T22:25:40.016Z",
     "original_repository": "menisadi/awesome-differential-privacy",
     "original_repository_sha": "b49b6d7dff2c2fb0b78584c02934160c6f9c4429",
     "enhanced_repository": "enhansome/enhansome-differential-privacy",
