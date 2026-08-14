@@ -21,7 +21,7 @@ list of differential-privacy related repositories (and a bit more)
 * [PyDP - OpenMinded's python version of Google's library](https://github.com/OpenMined/PyDP) ⭐ 551 | 🐛 59 | 🌐 Python | 📅 2026-05-11
 * [Dataflow analysis & differential privacy for SQL queries](https://github.com/uber/sql-differential-privacy) ⚠️ Archived
 * [PipelineDP - OpenMinded's framework for non-experts](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 46 | 🌐 Python | 📅 2026-08-07
-* [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy) ⭐ 190 | 🐛 17 | 🌐 Python | 📅 2026-08-13
+* [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy) ⭐ 190 | 🐛 16 | 🌐 Python | 📅 2026-08-14
 * [Fast-Differential-Privacy - A Faster way of training PyTorch models with Differential Privacy ](https://github.com/awslabs/fast-differential-privacy) ⭐ 146 | 🐛 5 | 🌐 Python | 📅 2026-01-22
 * [Easy differential privacy in R](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01
 * [MW - synthetic data](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) ⭐ 47 | 🐛 0 | 🌐 Julia | 📅 2026-08-10
@@ -86,4 +86,4 @@ list of differential-privacy related repositories (and a bit more)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
