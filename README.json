@@ -14,7 +14,7 @@
             "last_commit": "2026-08-06T22:18:52Z",
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3342
+            "stars": 3341
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-13T21:37:10Z",
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1949
+            "stars": 1950
           }
         },
         {
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-14T10:07:09Z",
             "owner": "google-deepmind",
             "repo": "jax_privacy",
-            "stars": 190
+            "stars": 191
           }
         },
         {
@@ -271,7 +271,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:00:47.753Z",
+    "last_updated": "2026-08-15T21:58:38.060Z",
     "original_repository": "menisadi/awesome-differential-privacy",
     "original_repository_sha": "b49b6d7dff2c2fb0b78584c02934160c6f9c4429",
     "enhanced_repository": "enhansome/enhansome-differential-privacy",
