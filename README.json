@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,8 +10,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206320938,
             "language": "Go",
-            "last_commit": "2026-08-17T08:38:38Z",
+            "last_commit": "2026-08-18T22:38:20Z",
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3341
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162747292,
             "language": "Python",
             "last_commit": "2026-07-08T08:56:21Z",
             "owner": "tensorflow",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226441159,
             "language": "Python",
             "last_commit": "2026-07-13T21:37:10Z",
             "owner": "meta-pytorch",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 192547145,
             "language": "Python",
             "last_commit": "2025-09-17T20:40:13Z",
             "owner": "IBM",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25319462,
             "language": "R",
             "last_commit": "2022-07-14T06:30:15Z",
             "owner": "google",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9751165,
             "language": "Java",
             "last_commit": "2025-10-01T15:44:48Z",
             "owner": "arx-deidentifier",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208594579,
             "language": "Python",
             "last_commit": "2026-05-11T08:29:17Z",
             "owner": "OpenMined",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94485471,
             "language": "Scala",
             "last_commit": "2019-12-03T07:09:43Z",
             "owner": "uber-archive",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 337809546,
             "language": "Python",
             "last_commit": "2026-08-07T07:08:29Z",
             "owner": "OpenMined",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 484230611,
             "language": "Python",
             "last_commit": "2026-08-14T10:07:09Z",
             "owner": "google-deepmind",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 568454288,
             "language": "Python",
             "last_commit": "2026-01-22T20:31:59Z",
             "owner": "awslabs",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95639698,
             "language": "R",
             "last_commit": "2022-07-01T05:30:18Z",
             "owner": "brubinstein",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35077049,
             "language": "Julia",
             "last_commit": "2026-08-10T10:51:15Z",
             "owner": "mrtzh",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1916561,
             "language": "Python",
             "last_commit": "2012-07-10T23:28:25Z",
             "owner": "prashmohan",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 417440283,
             "language": "C++",
             "last_commit": "2024-01-10T16:32:58Z",
             "owner": "sarus-tech",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90172860,
             "language": null,
             "last_commit": "2017-05-11T21:17:42Z",
             "owner": "NidhiKat",
@@ -231,7 +247,7 @@
       "title": "Code and Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40350180,
             "language": "JavaScript",
             "last_commit": "2026-07-29T14:07:16Z",
             "owner": "frankmcsherry",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40350180,
             "language": "JavaScript",
             "last_commit": "2026-07-29T14:07:16Z",
             "owner": "frankmcsherry",
@@ -263,16 +281,12 @@
         }
       ],
       "title": "Read"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:00:16.221Z",
+    "last_updated": "2026-08-19T12:24:02.772Z",
     "original_repository": "menisadi/awesome-differential-privacy",
+    "original_repository_id": 75537927,
     "original_repository_sha": "b49b6d7dff2c2fb0b78584c02934160c6f9c4429",
     "enhanced_repository": "enhansome/enhansome-differential-privacy",
     "enhanced_repository_description": null,
