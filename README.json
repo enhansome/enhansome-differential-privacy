@@ -12,7 +12,7 @@
             "archived": false,
             "id": 206320938,
             "language": "Go",
-            "last_commit": "2026-08-21T13:49:40Z",
+            "last_commit": "2026-08-24T21:03:12Z",
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3345
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:42.147Z",
+    "last_updated": "2026-08-24T22:03:05.172Z",
     "original_repository": "menisadi/awesome-differential-privacy",
     "original_repository_id": 75537927,
     "original_repository_sha": "b49b6d7dff2c2fb0b78584c02934160c6f9c4429",
