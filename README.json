@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T21:03:12Z",
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3345
+            "stars": 3346
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 162747292,
             "language": "Python",
-            "last_commit": "2026-08-19T17:40:33Z",
+            "last_commit": "2026-08-25T21:08:43Z",
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2022
+            "stars": 2023
           }
         },
         {
@@ -284,7 +284,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:34.546Z",
+    "last_updated": "2026-08-25T22:01:54.868Z",
     "original_repository": "menisadi/awesome-differential-privacy",
     "original_repository_id": 75537927,
     "original_repository_sha": "b49b6d7dff2c2fb0b78584c02934160c6f9c4429",
