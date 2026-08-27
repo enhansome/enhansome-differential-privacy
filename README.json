@@ -284,9 +284,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T02:11:22.253Z",
-    "original_repository": "menisadi/awesome-differential-privacy",
-    "original_repository_id": 75537927,
+    "last_updated": "2026-08-27T11:34:09.952Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 75537927,
+      "language": null,
+      "last_commit": "2025-01-10T11:55:08Z",
+      "owner": "menisadi",
+      "repo": "awesome-differential-privacy",
+      "stars": 329
+    },
     "original_repository_sha": "b49b6d7dff2c2fb0b78584c02934160c6f9c4429",
     "enhanced_repository": "enhansome/enhansome-differential-privacy",
     "enhanced_repository_description": null,
