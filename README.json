@@ -12,11 +12,12 @@
             "archived": false,
             "id": 206320938,
             "language": "Go",
-            "last_commit": "2026-08-24T21:03:12Z",
+            "last_commit": "2026-08-27T22:33:41Z",
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3347
-          }
+            "stars": 3348
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "tensorflow",
             "repo": "privacy",
             "stars": 2026
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-07-13T21:37:10Z",
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1952
-          }
+            "stars": 1953
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "IBM",
             "repo": "differential-privacy-library",
             "stars": 919
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "google",
             "repo": "rappor",
             "stars": 869
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "arx-deidentifier",
             "repo": "arx",
             "stars": 733
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "OpenMined",
             "repo": "PyDP",
             "stars": 550
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "uber-archive",
             "repo": "sql-differential-privacy",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "OpenMined",
             "repo": "PipelineDP",
             "stars": 285
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 484230611,
             "language": "Python",
-            "last_commit": "2026-08-21T05:02:10Z",
+            "last_commit": "2026-08-28T03:48:54Z",
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "awslabs",
             "repo": "fast-differential-privacy",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "brubinstein",
             "repo": "diffpriv",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "mrtzh",
             "repo": "PrivateMultiplicativeWeights.jl",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "prashmohan",
             "repo": "GUPT",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "sarus-tech",
             "repo": "dp-xgboost",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "NidhiKat",
             "repo": "DPWeka",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         }
       ],
       "title": "Code and Projects"
@@ -262,7 +278,8 @@
             "owner": "frankmcsherry",
             "repo": "blog",
             "stars": 2119
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         },
         {
           "node_type": "item",
@@ -277,14 +294,15 @@
             "owner": "frankmcsherry",
             "repo": "blog",
             "stars": 2119
-          }
+          },
+          "first_seen": "2026-08-28T05:49:53.917Z"
         }
       ],
       "title": "Read"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:09.952Z",
+    "last_updated": "2026-08-28T05:49:53.917Z",
     "original_repository_info": {
       "archived": false,
       "id": 75537927,
