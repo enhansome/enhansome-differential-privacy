@@ -12,16 +12,16 @@ list of differential-privacy related repositories (and a bit more)
 
 ## Code and Projects
 
-* [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,348 | 🐛 61 | 🌐 Go | 📅 2026-08-27
+* [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,348 | 🐛 62 | 🌐 Go | 📅 2026-08-28
 * [Implementing TensorFlow with differential privacy](https://github.com/tensorflow/privacy) ⭐ 2,026 | 🐛 136 | 🌐 Python | 📅 2026-08-26
 * [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus) ⭐ 1,953 | 🐛 82 | 🌐 Python | 📅 2026-07-13
 * [Diffprivlib: The IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) ⭐ 919 | 🐛 12 | 🌐 Python | 📅 2025-09-17
 * [Google's Private Reporting Algorithms](https://github.com/google/rappor) ⚠️ Archived
-* [ARX - open source data anonymization tool](https://github.com/arx-deidentifier/arx) ⭐ 733 | 🐛 60 | 🌐 Java | 📅 2025-10-01
+* [ARX - open source data anonymization tool](https://github.com/arx-deidentifier/arx) ⭐ 734 | 🐛 60 | 🌐 Java | 📅 2025-10-01
 * [PyDP - OpenMinded's python version of Google's library](https://github.com/OpenMined/PyDP) ⭐ 550 | 🐛 59 | 🌐 Python | 📅 2026-05-11
 * [Dataflow analysis & differential privacy for SQL queries](https://github.com/uber/sql-differential-privacy) ⚠️ Archived
 * [PipelineDP - OpenMinded's framework for non-experts](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 46 | 🌐 Python | 📅 2026-08-07
-* [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy) ⭐ 191 | 🐛 18 | 🌐 Python | 📅 2026-08-28
+* [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy) ⭐ 191 | 🐛 19 | 🌐 Python | 📅 2026-08-28
 * [Fast-Differential-Privacy - A Faster way of training PyTorch models with Differential Privacy ](https://github.com/awslabs/fast-differential-privacy) ⭐ 147 | 🐛 5 | 🌐 Python | 📅 2026-01-22
 * [Easy differential privacy in R](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01
 * [MW - synthetic data](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) ⭐ 47 | 🐛 0 | 🌐 Julia | 📅 2026-08-10
@@ -86,4 +86,4 @@ list of differential-privacy related repositories (and a bit more)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
