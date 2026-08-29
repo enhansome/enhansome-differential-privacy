@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2026,
+            "stars": 2027,
             "topics": [
               "machine-learning",
               "privacy"
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:01.198Z",
+    "last_updated": "2026-08-29T23:37:40.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",

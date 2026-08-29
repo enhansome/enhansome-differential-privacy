@@ -13,7 +13,7 @@ list of differential-privacy related repositories (and a bit more)
 ## Code and Projects
 
 * [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,348 | 🐛 62 | 🌐 Go | 📅 2026-08-28
-* [Implementing TensorFlow with differential privacy](https://github.com/tensorflow/privacy) ⭐ 2,026 | 🐛 136 | 🌐 Python | 📅 2026-08-26
+* [Implementing TensorFlow with differential privacy](https://github.com/tensorflow/privacy) ⭐ 2,027 | 🐛 136 | 🌐 Python | 📅 2026-08-26
 * [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus) ⭐ 1,953 | 🐛 82 | 🌐 Python | 📅 2026-07-13
 * [Diffprivlib: The IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) ⭐ 919 | 🐛 12 | 🌐 Python | 📅 2025-09-17
 * [Google's Private Reporting Algorithms](https://github.com/google/rappor) ⚠️ Archived
