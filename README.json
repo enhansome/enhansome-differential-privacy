@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3348,
+            "stars": 3349,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2027,
+            "stars": 2030,
             "topics": [
               "machine-learning",
               "privacy"
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:37:40.535Z",
+    "last_updated": "2026-08-30T23:56:15.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
