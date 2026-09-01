@@ -239,8 +239,8 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T20:06:04Z",
-            "open_issues": 19,
+            "last_commit": "2026-08-31T23:49:03Z",
+            "open_issues": 18,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 191,
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T23:56:15.404Z",
+    "last_updated": "2026-09-01T00:48:09.012Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
