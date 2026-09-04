@@ -68,7 +68,7 @@
             "open_issues": 82,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1953,
+            "stars": 1954,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -243,7 +243,7 @@
             "open_issues": 19,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
-            "stars": 192,
+            "stars": 193,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -264,7 +264,7 @@
             "open_issues": 5,
             "owner": "awslabs",
             "repo": "fast-differential-privacy",
-            "stars": 147,
+            "stars": 146,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T23:32:45.555Z",
+    "last_updated": "2026-09-04T23:22:14.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
