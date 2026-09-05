@@ -19,7 +19,7 @@
             "open_issues": 62,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3351,
+            "stars": 3352,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2030,
+            "stars": 2031,
             "topics": [
               "machine-learning",
               "privacy"
@@ -240,7 +240,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T17:46:47Z",
-            "open_issues": 19,
+            "open_issues": 16,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 193,
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:22:14.812Z",
+    "last_updated": "2026-09-05T23:22:23.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
