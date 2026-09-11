@@ -15,8 +15,8 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T22:25:31Z",
-            "open_issues": 61,
+            "last_commit": "2026-09-11T23:26:38Z",
+            "open_issues": 58,
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3355,
@@ -143,7 +143,7 @@
             "open_issues": 60,
             "owner": "arx-deidentifier",
             "repo": "arx",
-            "stars": 734,
+            "stars": 735,
             "topics": [
               "arx",
               "cross-platform",
@@ -239,8 +239,8 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T21:16:47Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-11T21:07:03Z",
+            "open_issues": 17,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 193,
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T23:25:19.613Z",
+    "last_updated": "2026-09-11T23:32:48.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
