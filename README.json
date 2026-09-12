@@ -15,11 +15,11 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T23:26:38Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-11T23:58:26Z",
+            "open_issues": 57,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3355,
+            "stars": 3357,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2033,
+            "stars": 2034,
             "topics": [
               "machine-learning",
               "privacy"
@@ -68,7 +68,7 @@
             "open_issues": 82,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1956,
+            "stars": 1957,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -243,7 +243,7 @@
             "open_issues": 17,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
-            "stars": 193,
+            "stars": 194,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -413,7 +413,7 @@
             "open_issues": 8,
             "owner": "frankmcsherry",
             "repo": "blog",
-            "stars": 2120,
+            "stars": 2121,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -434,7 +434,7 @@
             "open_issues": 8,
             "owner": "frankmcsherry",
             "repo": "blog",
-            "stars": 2120,
+            "stars": 2121,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:32:48.646Z",
+    "last_updated": "2026-09-12T23:26:04.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
