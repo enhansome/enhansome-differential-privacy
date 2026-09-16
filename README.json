@@ -15,11 +15,11 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T13:52:34Z",
+            "last_commit": "2026-09-16T11:56:56Z",
             "open_issues": 58,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3359,
+            "stars": 3360,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -239,11 +239,11 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T18:46:55Z",
+            "last_commit": "2026-09-16T18:59:12Z",
             "open_issues": 17,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
-            "stars": 197,
+            "stars": 198,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:44:15.279Z",
+    "last_updated": "2026-09-16T23:54:04.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
