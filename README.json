@@ -86,7 +86,7 @@
           "description": null,
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Diffprivlib: The IBM Differential Privacy Library",
             "homepage": "https://diffprivlib.readthedocs.io",
             "id": 192547145,
@@ -96,7 +96,7 @@
             "open_issues": 13,
             "owner": "IBM",
             "repo": "differential-privacy-library",
-            "stars": 918,
+            "stars": 917,
             "topics": [
               "data-privacy",
               "differential-privacy",
@@ -240,7 +240,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-16T18:59:12Z",
-            "open_issues": 17,
+            "open_issues": 32,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 198,
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T23:54:04.523Z",
+    "last_updated": "2026-09-17T23:42:59.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
