@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2035,
+            "stars": 2036,
             "topics": [
               "machine-learning",
               "privacy"
@@ -264,7 +264,7 @@
             "open_issues": 5,
             "owner": "awslabs",
             "repo": "fast-differential-privacy",
-            "stars": 146,
+            "stars": 145,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:17.524Z",
+    "last_updated": "2026-09-22T23:51:41.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
