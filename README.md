@@ -12,12 +12,12 @@ list of differential-privacy related repositories (and a bit more)
 
 ## Code and Projects
 
-* [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,362 | 🐛 59 | 🌐 Go | 📅 2026-09-21
+* [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,364 | 🐛 60 | 🌐 Go | 📅 2026-09-23
 * [Implementing TensorFlow with differential privacy](https://github.com/tensorflow/privacy) ⭐ 2,036 | 🐛 136 | 🌐 Python | 📅 2026-08-26
-* [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus) ⭐ 1,960 | 🐛 82 | 🌐 Python | 📅 2026-07-13
-* [Diffprivlib: The IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) ⭐ 918 | 🐛 13 | 🌐 Python | 📅 2026-09-21
+* [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus) ⭐ 1,961 | 🐛 78 | 🌐 Python | 📅 2026-09-23
+* [Diffprivlib: The IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) ⭐ 919 | 🐛 10 | 🌐 Python | 📅 2026-09-23
 * [Google's Private Reporting Algorithms](https://github.com/google/rappor) ⚠️ Archived
-* [ARX - open source data anonymization tool](https://github.com/arx-deidentifier/arx) ⭐ 735 | 🐛 60 | 🌐 Java | 📅 2025-10-01
+* [ARX - open source data anonymization tool](https://github.com/arx-deidentifier/arx) ⭐ 736 | 🐛 60 | 🌐 Java | 📅 2025-10-01
 * [PyDP - OpenMinded's python version of Google's library](https://github.com/OpenMined/PyDP) ⭐ 550 | 🐛 59 | 🌐 Python | 📅 2026-05-11
 * [Dataflow analysis & differential privacy for SQL queries](https://github.com/uber/sql-differential-privacy) ⚠️ Archived
 * [PipelineDP - OpenMinded's framework for non-experts](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 46 | 🌐 Python | 📅 2026-08-07
@@ -86,4 +86,4 @@ list of differential-privacy related repositories (and a bit more)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
