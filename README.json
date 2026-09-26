@@ -68,7 +68,7 @@
             "open_issues": 77,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1961,
+            "stars": 1962,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:02:06.184Z",
+    "last_updated": "2026-09-26T00:10:05.438Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
