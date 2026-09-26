@@ -48,8 +48,8 @@ list of differential-privacy related repositories (and a bit more)
 
 ## Read
 
-* [Differential privacy for dummies](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md) ⭐ 2,121 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03
-* [An illustrated primer](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-06.md) ⭐ 2,121 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03
+* [Differential privacy for dummies](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md) ⭐ 2,122 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03
+* [An illustrated primer](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-06.md) ⭐ 2,122 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03
 * [Wikipedia](https://en.wikipedia.org/wiki/Differential_privacy)
 * [A Primer for a Non-technical Audience](http://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_0.pdf)
 * [Introducing TensorFlow Privacy](https://blog.tensorflow.org/2019/03/introducing-tensorflow-privacy-learning.html)
