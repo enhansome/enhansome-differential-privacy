@@ -12,7 +12,7 @@ list of differential-privacy related repositories (and a bit more)
 
 ## Code and Projects
 
-* [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,365 | 🐛 88 | 🌐 Go | 📅 2026-09-29
+* [Google's differential privacy library](https://github.com/google/differential-privacy) ⭐ 3,365 | 🐛 89 | 🌐 Go | 📅 2026-09-29
 * [Implementing TensorFlow with differential privacy](https://github.com/tensorflow/privacy) ⭐ 2,037 | 🐛 136 | 🌐 Python | 📅 2026-08-26
 * [Opacus - Training PyTorch models with differential privacy](https://github.com/pytorch/opacus) ⭐ 1,962 | 🐛 77 | 🌐 Python | 📅 2026-09-24
 * [Diffprivlib: The IBM Differential Privacy Library](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 12 | 🌐 Python | 📅 2026-09-23
@@ -21,7 +21,7 @@ list of differential-privacy related repositories (and a bit more)
 * [PyDP - OpenMinded's python version of Google's library](https://github.com/OpenMined/PyDP) ⭐ 550 | 🐛 59 | 🌐 Python | 📅 2026-05-11
 * [Dataflow analysis & differential privacy for SQL queries](https://github.com/uber/sql-differential-privacy) ⚠️ Archived
 * [PipelineDP - OpenMinded's framework for non-experts](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 60 | 🌐 Python | 📅 2026-08-07
-* [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy) ⭐ 199 | 🐛 30 | 🌐 Python | 📅 2026-10-01
+* [JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX](https://github.com/deepmind/jax_privacy) ⭐ 199 | 🐛 30 | 🌐 Python | 📅 2026-10-02
 * [Fast-Differential-Privacy - A Faster way of training PyTorch models with Differential Privacy ](https://github.com/awslabs/fast-differential-privacy) ⭐ 145 | 🐛 5 | 🌐 Python | 📅 2026-01-22
 * [Easy differential privacy in R](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01
 * [MW - synthetic data](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) ⭐ 47 | 🐛 0 | 🌐 Julia | 📅 2026-08-10
@@ -86,4 +86,4 @@ list of differential-privacy related repositories (and a bit more)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
