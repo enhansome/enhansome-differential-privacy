@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Google's differential privacy library",
-          "description": null,
+          "description": "google/differential-privacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Implementing TensorFlow with differential privacy",
-          "description": null,
+          "description": "tensorflow/privacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -55,7 +55,7 @@
         {
           "node_type": "item",
           "title": "Opacus - Training PyTorch models with differential privacy",
-          "description": null,
+          "description": "meta-pytorch/opacus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -83,7 +83,7 @@
         {
           "node_type": "item",
           "title": "Diffprivlib: The IBM Differential Privacy Library",
-          "description": null,
+          "description": "IBM/differential-privacy-library",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -109,7 +109,7 @@
         {
           "node_type": "item",
           "title": "Google's Private Reporting Algorithms",
-          "description": null,
+          "description": "google/rappor",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "ARX - open source data anonymization tool",
-          "description": null,
+          "description": "arx-deidentifier/arx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "PyDP - OpenMinded's python version of Google's library",
-          "description": null,
+          "description": "OpenMined/PyDP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,7 +186,7 @@
         {
           "node_type": "item",
           "title": "Dataflow analysis & differential privacy for SQL queries",
-          "description": null,
+          "description": "uber-archive/sql-differential-privacy",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -209,7 +209,7 @@
         {
           "node_type": "item",
           "title": "PipelineDP - OpenMinded's framework for non-experts",
-          "description": null,
+          "description": "OpenMined/PipelineDP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,7 +230,7 @@
         {
           "node_type": "item",
           "title": "JAX-Privacy - Algorithms for Privacy-Preserving Machine Learning in JAX",
-          "description": null,
+          "description": "google-deepmind/jax_privacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -251,7 +251,7 @@
         {
           "node_type": "item",
           "title": "Fast-Differential-Privacy - A Faster way of training PyTorch models with Differential Privacy",
-          "description": null,
+          "description": "awslabs/fast-differential-privacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -277,7 +277,7 @@
         {
           "node_type": "item",
           "title": "Easy differential privacy in R",
-          "description": null,
+          "description": "brubinstein/diffpriv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -306,7 +306,7 @@
         {
           "node_type": "item",
           "title": "MW - synthetic data",
-          "description": null,
+          "description": "mrtzh/PrivateMultiplicativeWeights.jl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -331,7 +331,7 @@
         {
           "node_type": "item",
           "title": "GUPT - Data Mining Platform",
-          "description": null,
+          "description": "prashmohan/GUPT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
         {
           "node_type": "item",
           "title": "DP-XGBoost - Private Machine Learning at Scale",
-          "description": null,
+          "description": "sarus-tech/dp-xgboost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -373,7 +373,7 @@
         {
           "node_type": "item",
           "title": "Differential Privacy package for WEKA",
-          "description": null,
+          "description": "NidhiKat/DPWeka",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -400,7 +400,7 @@
         {
           "node_type": "item",
           "title": "Differential privacy for dummies",
-          "description": null,
+          "description": "frankmcsherry/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "An illustrated primer",
-          "description": null,
+          "description": "frankmcsherry/blog",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:45:19.372Z",
+    "last_updated": "2026-10-03T04:40:55.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
