@@ -15,11 +15,11 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T23:39:24Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-07T21:51:54Z",
+            "open_issues": 88,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3365,
+            "stars": 3367,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -68,7 +68,7 @@
             "open_issues": 78,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1962,
+            "stars": 1961,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -93,7 +93,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-23T13:33:23Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "IBM",
             "repo": "differential-privacy-library",
             "stars": 920,
@@ -122,7 +122,7 @@
             "open_issues": 36,
             "owner": "google",
             "repo": "rappor",
-            "stars": 869,
+            "stars": 868,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -169,10 +169,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-05-11T08:29:17Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "OpenMined",
             "repo": "PyDP",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "cpp",
               "differential-privacy",
@@ -219,7 +219,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-08-07T07:08:29Z",
-            "open_issues": 60,
+            "open_issues": 59,
             "owner": "OpenMined",
             "repo": "PipelineDP",
             "stars": 285,
@@ -239,7 +239,7 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:31:23Z",
+            "last_commit": "2026-10-07T19:36:02Z",
             "open_issues": 26,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
@@ -264,7 +264,7 @@
             "open_issues": 5,
             "owner": "awslabs",
             "repo": "fast-differential-privacy",
-            "stars": 145,
+            "stars": 144,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -444,7 +444,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T01:02:20.740Z",
+    "last_updated": "2026-10-08T01:20:54.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "list of differential-privacy related resources",
