@@ -19,7 +19,7 @@
 * [ARX](https://github.com/arx-deidentifier/arx) ⭐ 738 | 🐛 60 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
 * [PyDP](https://github.com/OpenMined/PyDP) ⭐ 551 | 🐛 60 | 🌐 Python | 📅 2026-05-11 - Python wrapper for Google's differential privacy library.
 * [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 59 | 🌐 Python | 📅 2026-08-07 - Framework for applying differential privacy to large datasets, aimed at non-experts.
-* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 199 | 🐛 25 | 🌐 Python | 📅 2026-10-10 - Algorithms for privacy-preserving machine learning in JAX.
+* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 200 | 🐛 24 | 🌐 Python | 📅 2026-10-10 - Algorithms for privacy-preserving machine learning in JAX.
 * [Fast Differential Privacy](https://github.com/awslabs/fast-differential-privacy) ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2026-01-22 - Faster differentially private training of PyTorch models.
 * [diffpriv](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01 - R package for easy differential privacy.
 * [Private Multiplicative Weights](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) ⭐ 47 | 🐛 0 | 🌐 Julia | 📅 2026-08-10 - Julia implementation of the MWEM algorithm for differentially private synthetic data.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

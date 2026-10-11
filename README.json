@@ -195,11 +195,11 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T00:07:42Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-10T18:06:52Z",
+            "open_issues": 24,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
-            "stars": 199,
+            "stars": 200,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:18:13.228Z",
+    "last_updated": "2026-10-11T00:31:21.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
