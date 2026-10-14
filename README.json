@@ -15,8 +15,8 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T21:55:47Z",
-            "open_issues": 89,
+            "last_commit": "2026-10-13T05:39:41Z",
+            "open_issues": 90,
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3368,
@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2039,
+            "stars": 2040,
             "topics": [
               "machine-learning",
               "privacy"
@@ -65,10 +65,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T18:49:30Z",
-            "open_issues": 78,
+            "open_issues": 77,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1963,
+            "stars": 1962,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -119,7 +119,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2025-10-01T15:44:48Z",
-            "open_issues": 60,
+            "open_issues": 61,
             "owner": "arx-deidentifier",
             "repo": "arx",
             "stars": 738,
@@ -195,8 +195,8 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T01:24:24Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-13T12:52:00Z",
+            "open_issues": 25,
             "owner": "google-deepmind",
             "repo": "jax_privacy",
             "stars": 202,
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:43:35.532Z",
+    "last_updated": "2026-10-14T00:38:08.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
