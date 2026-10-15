@@ -15,11 +15,11 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T22:59:47Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-15T23:14:30Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3369,
+            "stars": 3370,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -68,7 +68,7 @@
             "open_issues": 77,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1964,
+            "stars": 1965,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -195,9 +195,9 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T21:46:41Z",
-            "open_issues": 26,
-            "owner": "google-deepmind",
+            "last_commit": "2026-10-15T21:47:02Z",
+            "open_issues": 25,
+            "owner": "google-parfait",
             "repo": "jax_privacy",
             "stars": 203,
             "topics": []
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T00:07:57.527Z",
+    "last_updated": "2026-10-15T23:53:55.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
