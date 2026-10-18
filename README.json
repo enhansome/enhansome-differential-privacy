@@ -65,7 +65,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T18:49:30Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "meta-pytorch",
             "repo": "opacus",
             "stars": 1967,
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:28:36.552Z",
+    "last_updated": "2026-10-18T23:42:06.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
