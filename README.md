@@ -12,14 +12,14 @@
 
 ## Code and Projects
 
-* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,369 | 🐛 90 | 🌐 Go | 📅 2026-10-15 - C++, Go and Java libraries for computing differentially private statistics.
+* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,368 | 🐛 87 | 🌐 Go | 📅 2026-10-15 - C++, Go and Java libraries for computing differentially private statistics.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,040 | 🐛 136 | 🌐 Python | 📅 2026-10-12 - Train TensorFlow models with differential privacy.
-* [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,967 | 🐛 79 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
-* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 12 | 🌐 Python | 📅 2026-10-12 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
+* [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,967 | 🐛 82 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
+* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 919 | 🐛 12 | 🌐 Python | 📅 2026-10-12 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
 * [ARX](https://github.com/arx-deidentifier/arx) ⭐ 738 | 🐛 61 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
 * [PyDP](https://github.com/OpenMined/PyDP) ⭐ 551 | 🐛 60 | 🌐 Python | 📅 2026-05-11 - Python wrapper for Google's differential privacy library.
-* [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 62 | 🌐 Python | 📅 2026-08-07 - Framework for applying differential privacy to large datasets, aimed at non-experts.
-* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 203 | 🐛 27 | 🌐 Python | 📅 2026-10-17 - Algorithms for privacy-preserving machine learning in JAX.
+* [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 59 | 🌐 Python | 📅 2026-10-19 - Framework for applying differential privacy to large datasets, aimed at non-experts.
+* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 201 | 🐛 24 | 🌐 Python | 📅 2026-10-19 - Algorithms for privacy-preserving machine learning in JAX.
 * [Fast Differential Privacy](https://github.com/awslabs/fast-differential-privacy) ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2026-01-22 - Faster differentially private training of PyTorch models.
 * [diffpriv](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01 - R package for easy differential privacy.
 * [Private Multiplicative Weights](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) ⭐ 47 | 🐛 0 | 🌐 Julia | 📅 2026-08-10 - Julia implementation of the MWEM algorithm for differentially private synthetic data.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
