@@ -12,14 +12,14 @@
 
 ## Code and Projects
 
-* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,368 | 🐛 88 | 🌐 Go | 📅 2026-10-20 - C++, Go and Java libraries for computing differentially private statistics.
+* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,368 | 🐛 88 | 🌐 Go | 📅 2026-10-21 - C++, Go and Java libraries for computing differentially private statistics.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,040 | 🐛 137 | 🌐 Python | 📅 2026-10-12 - Train TensorFlow models with differential privacy.
-* [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,967 | 🐛 84 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
+* [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,967 | 🐛 85 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
 * [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 919 | 🐛 12 | 🌐 Python | 📅 2026-10-12 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
 * [ARX](https://github.com/arx-deidentifier/arx) ⭐ 738 | 🐛 61 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
 * [PyDP](https://github.com/OpenMined/PyDP) ⭐ 551 | 🐛 60 | 🌐 Python | 📅 2026-05-11 - Python wrapper for Google's differential privacy library.
-* [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 60 | 🌐 Python | 📅 2026-10-20 - Framework for applying differential privacy to large datasets, aimed at non-experts.
-* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 200 | 🐛 24 | 🌐 Python | 📅 2026-10-20 - Algorithms for privacy-preserving machine learning in JAX.
+* [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 56 | 🌐 Python | 📅 2026-10-21 - Framework for applying differential privacy to large datasets, aimed at non-experts.
+* [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 200 | 🐛 25 | 🌐 Python | 📅 2026-10-21 - Algorithms for privacy-preserving machine learning in JAX.
 * [Fast Differential Privacy](https://github.com/awslabs/fast-differential-privacy) ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2026-01-22 - Faster differentially private training of PyTorch models.
 * [diffpriv](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01 - R package for easy differential privacy.
 * [Private Multiplicative Weights](https://github.com/mrtzh/PrivateMultiplicativeWeights.jl) ⭐ 47 | 🐛 0 | 🌐 Julia | 📅 2026-08-10 - Julia implementation of the MWEM algorithm for differentially private synthetic data.
@@ -43,8 +43,8 @@
 
 ## Read
 
-* [Differential Privacy for Dummies](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md) ⭐ 2,122 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03 - Informal introduction by Frank McSherry.
-* [An Illustrated Primer](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-06.md) ⭐ 2,122 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03 - Worked examples of differential privacy by Frank McSherry.
+* [Differential Privacy for Dummies](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-03.md) ⭐ 2,123 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03 - Informal introduction by Frank McSherry.
+* [An Illustrated Primer](https://github.com/frankmcsherry/blog/blob/master/posts/2016-02-06.md) ⭐ 2,123 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-03 - Worked examples of differential privacy by Frank McSherry.
 * [Wikipedia](https://en.wikipedia.org/wiki/Differential_privacy) - Encyclopedic overview of differential privacy.
 * [A Primer for a Non-Technical Audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_0.pdf) - Introduction to differential privacy for lawyers and policymakers.
 * [Introducing TensorFlow Privacy](https://blog.tensorflow.org/2019/03/introducing-tensorflow-privacy-learning.html) - Announcement of the TensorFlow Privacy library.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
