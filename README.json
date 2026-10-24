@@ -15,8 +15,8 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T23:42:14Z",
-            "open_issues": 88,
+            "last_commit": "2026-10-23T23:02:01Z",
+            "open_issues": 90,
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3368,
@@ -44,7 +44,7 @@
             "open_issues": 138,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2040,
+            "stars": 2039,
             "topics": [
               "machine-learning",
               "privacy"
@@ -195,8 +195,8 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T00:10:16Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-23T19:59:38Z",
+            "open_issues": 26,
             "owner": "google-parfait",
             "repo": "jax_privacy",
             "stars": 200,
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:11:49.112Z",
+    "last_updated": "2026-10-24T00:03:45.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
