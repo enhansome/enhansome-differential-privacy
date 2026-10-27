@@ -15,8 +15,8 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T23:02:01Z",
-            "open_issues": 90,
+            "last_commit": "2026-10-26T20:55:33Z",
+            "open_issues": 93,
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3368,
@@ -44,7 +44,7 @@
             "open_issues": 138,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2039,
+            "stars": 2038,
             "topics": [
               "machine-learning",
               "privacy"
@@ -175,7 +175,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T18:34:18Z",
-            "open_issues": 57,
+            "open_issues": 62,
             "owner": "OpenMined",
             "repo": "PipelineDP",
             "stars": 285,
@@ -195,8 +195,8 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T00:22:26Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-26T21:36:02Z",
+            "open_issues": 23,
             "owner": "google-parfait",
             "repo": "jax_privacy",
             "stars": 200,
@@ -327,7 +327,7 @@
             "open_issues": 8,
             "owner": "frankmcsherry",
             "repo": "blog",
-            "stars": 2123,
+            "stars": 2122,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -348,7 +348,7 @@
             "open_issues": 8,
             "owner": "frankmcsherry",
             "repo": "blog",
-            "stars": 2123,
+            "stars": 2122,
             "topics": []
           },
           "first_seen": "2026-08-28T05:49:53.917Z"
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T23:35:24.498Z",
+    "last_updated": "2026-10-27T00:52:27.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
