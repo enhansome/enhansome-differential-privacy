@@ -13,7 +13,7 @@
 ## Code and Projects
 
 * [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,370 | 🐛 89 | 🌐 Go | 📅 2026-10-30 - C++, Go and Java libraries for computing differentially private statistics.
-* [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,037 | 🐛 138 | 🌐 Python | 📅 2026-10-22 - Train TensorFlow models with differential privacy.
+* [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,038 | 🐛 138 | 🌐 Python | 📅 2026-10-22 - Train TensorFlow models with differential privacy.
 * [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,969 | 🐛 85 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
 * [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 13 | 🌐 Python | 📅 2026-10-12 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
 * [ARX](https://github.com/arx-deidentifier/arx) ⭐ 738 | 🐛 61 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
