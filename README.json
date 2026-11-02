@@ -195,7 +195,7 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T21:04:39Z",
+            "last_commit": "2026-11-01T03:08:08Z",
             "open_issues": 29,
             "owner": "google-parfait",
             "repo": "jax_privacy",
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:26:33.937Z",
+    "last_updated": "2026-11-02T01:03:03.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
