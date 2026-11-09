@@ -93,7 +93,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T14:59:14Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "IBM",
             "repo": "differential-privacy-library",
             "stars": 920,
@@ -122,7 +122,7 @@
             "open_issues": 61,
             "owner": "arx-deidentifier",
             "repo": "arx",
-            "stars": 738,
+            "stars": 739,
             "topics": [
               "arx",
               "cross-platform",
@@ -175,7 +175,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T09:58:20Z",
-            "open_issues": 58,
+            "open_issues": 61,
             "owner": "OpenMined",
             "repo": "PipelineDP",
             "stars": 285,
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:55:35.684Z",
+    "last_updated": "2026-11-09T01:14:22.407Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",

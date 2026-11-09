@@ -15,10 +15,10 @@
 * [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,371 | 🐛 95 | 🌐 Go | 📅 2026-11-06 - C++, Go and Java libraries for computing differentially private statistics.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,038 | 🐛 140 | 🌐 Python | 📅 2026-11-06 - Train TensorFlow models with differential privacy.
 * [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,970 | 🐛 85 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
-* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 6 | 🌐 Python | 📅 2026-11-06 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
-* [ARX](https://github.com/arx-deidentifier/arx) ⭐ 738 | 🐛 61 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
+* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 8 | 🌐 Python | 📅 2026-11-06 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
+* [ARX](https://github.com/arx-deidentifier/arx) ⭐ 739 | 🐛 61 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
 * [PyDP](https://github.com/OpenMined/PyDP) ⭐ 551 | 🐛 60 | 🌐 Python | 📅 2026-05-11 - Python wrapper for Google's differential privacy library.
-* [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 58 | 🌐 Python | 📅 2026-11-06 - Framework for applying differential privacy to large datasets, aimed at non-experts.
+* [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 61 | 🌐 Python | 📅 2026-11-06 - Framework for applying differential privacy to large datasets, aimed at non-experts.
 * [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 200 | 🐛 35 | 🌐 Python | 📅 2026-11-07 - Algorithms for privacy-preserving machine learning in JAX.
 * [Fast Differential Privacy](https://github.com/awslabs/fast-differential-privacy) ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2026-01-22 - Faster differentially private training of PyTorch models.
 * [diffpriv](https://github.com/brubinstein/diffpriv) ⭐ 69 | 🐛 0 | 🌐 R | 📅 2022-07-01 - R package for easy differential privacy.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
