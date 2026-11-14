@@ -15,11 +15,11 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T13:27:59Z",
+            "last_commit": "2026-11-13T07:34:57Z",
             "open_issues": 92,
             "owner": "google",
             "repo": "differential-privacy",
-            "stars": 3372,
+            "stars": 3373,
             "topics": [
               "anonymization",
               "differential-privacy",
@@ -195,8 +195,8 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T19:07:26Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-13T20:16:53Z",
+            "open_issues": 33,
             "owner": "google-parfait",
             "repo": "jax_privacy",
             "stars": 200,
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:09:34.540Z",
+    "last_updated": "2026-11-14T01:51:34.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
