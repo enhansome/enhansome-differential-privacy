@@ -15,7 +15,7 @@
             "id": 206320938,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T07:34:57Z",
+            "last_commit": "2026-11-16T18:48:28Z",
             "open_issues": 93,
             "owner": "google",
             "repo": "differential-privacy",
@@ -44,7 +44,7 @@
             "open_issues": 138,
             "owner": "tensorflow",
             "repo": "privacy",
-            "stars": 2037,
+            "stars": 2038,
             "topics": [
               "machine-learning",
               "privacy"
@@ -68,7 +68,7 @@
             "open_issues": 86,
             "owner": "meta-pytorch",
             "repo": "opacus",
-            "stars": 1970,
+            "stars": 1971,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -93,7 +93,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-06T14:59:14Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "IBM",
             "repo": "differential-privacy-library",
             "stars": 921,
@@ -151,7 +151,7 @@
             "open_issues": 60,
             "owner": "OpenMined",
             "repo": "PyDP",
-            "stars": 552,
+            "stars": 551,
             "topics": [
               "cpp",
               "differential-privacy",
@@ -175,7 +175,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T09:58:20Z",
-            "open_issues": 61,
+            "open_issues": 62,
             "owner": "OpenMined",
             "repo": "PipelineDP",
             "stars": 285,
@@ -195,7 +195,7 @@
             "id": 484230611,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T20:16:53Z",
+            "last_commit": "2026-11-16T19:27:00Z",
             "open_issues": 33,
             "owner": "google-parfait",
             "repo": "jax_privacy",
@@ -358,7 +358,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:26:03.089Z",
+    "last_updated": "2026-11-17T04:12:09.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of differential privacy libraries, courses, and readings",
