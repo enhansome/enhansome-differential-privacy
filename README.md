@@ -12,11 +12,11 @@
 
 ## Code and Projects
 
-* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,380 | 🐛 87 | 🌐 Go | 📅 2026-11-20 - C++, Go and Java libraries for computing differentially private statistics.
+* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,380 | 🐛 86 | 🌐 Go | 📅 2026-11-20 - C++, Go and Java libraries for computing differentially private statistics.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) ⭐ 2,041 | 🐛 138 | 🌐 Python | 📅 2026-11-18 - Train TensorFlow models with differential privacy.
-* [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,971 | 🐛 94 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
-* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 920 | 🐛 18 | 🌐 Python | 📅 2026-11-23 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
-* [ARX](https://github.com/arx-deidentifier/arx) ⭐ 741 | 🐛 63 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
+* [Opacus](https://github.com/meta-pytorch/opacus) ⭐ 1,972 | 🐛 93 | 🌐 Python | 📅 2026-09-24 - Train PyTorch models with differential privacy.
+* [Diffprivlib](https://github.com/IBM/differential-privacy-library) ⭐ 921 | 🐛 18 | 🌐 Python | 📅 2026-11-23 - IBM's general-purpose library of differential privacy mechanisms and machine learning models.
+* [ARX](https://github.com/arx-deidentifier/arx) ⭐ 741 | 🐛 64 | 🌐 Java | 📅 2025-10-01 - Data anonymization tool supporting differential privacy, k-anonymity and other privacy models.
 * [PyDP](https://github.com/OpenMined/PyDP) ⭐ 551 | 🐛 61 | 🌐 Python | 📅 2026-05-11 - Python wrapper for Google's differential privacy library.
 * [PipelineDP](https://github.com/OpenMined/PipelineDP) ⭐ 285 | 🐛 62 | 🌐 Python | 📅 2026-11-06 - Framework for applying differential privacy to large datasets, aimed at non-experts.
 * [JAX-Privacy](https://github.com/google-deepmind/jax_privacy) ⭐ 200 | 🐛 34 | 🌐 Python | 📅 2026-11-24 - Algorithms for privacy-preserving machine learning in JAX.
@@ -81,4 +81,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
